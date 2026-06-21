@@ -22,3 +22,7 @@ Die geteilten Inhalte mussten aufgrund von Daten- und Firmenschutz zensiert werd
 
 ## Notentabelle der IHK (.xlsx/Excel-Datei)
 https://www.ihk.de/blueprint/servlet/resource/blob/5293226/ef05d49645600b07a19512962bbd19f1/pruefungsrechner-fachinformatiker-systemintegration-ao2020-data.xlsx
+
+### restlichen Git-Repo's für die IHK-Prüfungen
+**IHK-Abschlussprüfungen-AP1-AO2020:** https://github.com/maximalbmw/IHK-Abschlusspruefungen-AP1-AO2020
+**IHK-Abschlussprüfungen-AP2-FiSi-AO2020:** https://github.com/maximalbmw/IHK-Abschlusspruefungen-AP2-FiSi-AO2020
