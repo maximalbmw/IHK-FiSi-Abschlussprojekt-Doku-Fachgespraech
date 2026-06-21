@@ -19,3 +19,6 @@
 
 ## Allgemeine Hinweise
 Die geteilten Inhalte mussten aufgrund von Daten- und Firmenschutz zensiert werden und sind daher teilweise geschwärzt, ich bitte hier um euer Verständnis.
+
+## Notentabelle der IHK (.xlsx/Excel-Datei)
+https://www.ihk.de/blueprint/servlet/resource/blob/5293226/ef05d49645600b07a19512962bbd19f1/pruefungsrechner-fachinformatiker-systemintegration-ao2020-data.xlsx
